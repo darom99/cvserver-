@@ -51,4 +51,4 @@ client.on("message", RANJO => {
 });
 
 /////////////////////////////////////////////
-client.login("NzM0MTEzMjExNDYwMDkxOTE0.XxM-NA.yETqdJTUYqlwgCBISGG12yupzCI")
+client.login("NzU4NjgyMjQ5MTU1MTgyNjAz.X2yf5w.gZ_nfufM73A6a4S300imN24XE1Y")
